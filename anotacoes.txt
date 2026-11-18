@@ -1,0 +1,3 @@
+"Meu primeiro teste dentro do Git"
+"Escrevendo segunda linha paralela"
+"vamos ver se salva"
